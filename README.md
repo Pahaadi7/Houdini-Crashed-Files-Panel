@@ -18,6 +18,8 @@ Step-by-step guide to installing and launching the crashed files management Pyth
 3. **Navigate to Gear Icon:**
    - After the Python Panel is opened, go to the right side of the panel.
    - Locate and click on the gear icon to access additional options.
+    ![image](https://github.com/Pahaadi7/Houdini-Crashed-Files-Panel/assets/132155993/357abe2c-47cf-4b78-90b1-8394798d994f)
+
 
 4. **Create a New Interface:**
    - In the options menu, click on `New Interface`.
